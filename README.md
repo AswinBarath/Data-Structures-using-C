@@ -10,6 +10,16 @@
 
 ## About This Repository
 
+**Backstory:**
+
+- Data Structures using C is one of the **Core Computer Science Course** which was part of my [Software Engineering Degree](https://github.com/AswinBarath/Software-Engineering-Degree) in 3rd Semester, Sophomore Year
+- New to C Programming? Check out my GitHub Repository on [C-Programming-for-Engineers](https://github.com/AswinBarath/C-Programming-for-Engineers), the predecessor to this repository ⬇
+
+| <a align="left" href="https://github.com/AswinBarath/C-Programming-for-Engineers" title="C-Programming-for-Engineers"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=C-Programming-for-Engineers&theme=react&border_color=61dafb&border_radius=10"></a> | <a align="left" href="https://github.com/AswinBarath/Data-Structures-using-C" title="Data-Structures-using-C"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AswinBarath&repo=Data-Structures-using-C&theme=react&border_color=61dafb&border_radius=10"></a> |
+| - | -
+
+
+
 **Vision:**
 
 This repository is designed to be the **ultimate, all-in-one resource for mastering Data Structures using C**. It combines:
